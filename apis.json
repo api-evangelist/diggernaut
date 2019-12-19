@@ -1,0 +1,76 @@
+{
+    "name": "Diggernaut",
+    "description": "<p>Web scraping just became easy. Extract any website content and turn it into data sets. No programming skills required.&nbsp; We also help larger accounts where we can do custom programming to collect the data to perform business intelligence, competitive pricing, market sentiment, and other forms of analysis.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28731-www-diggernaut-com.jpg",
+    "tags": [
+        "have api",
+        "scraping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/diggernaut\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Diggernaut",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28731-www-diggernaut-com.jpg",
+            "humanURL": "https:\/\/www.diggernaut.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/diggernaut-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Authentication",
+            "url": "https:\/\/www.diggernaut.com\/dev\/api-authentication.html"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.diggernaut.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/diggernaut"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.diggernaut.com\/dev\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.diggernaut.com\/dev\/api.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/diggernaut"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/10908957\/"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/www.diggernaut.com\/accounts\/signup\/"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/helpdesk.diggernaut.com\/?page=sign-in&redirect_to=https%3A%2F%2Fhelpdesk.diggernaut.com%2F%3Fdc%3D1530697960&dc=1530697960"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/diggernautcom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.diggernaut.com"
+        }
+    ]
+}
